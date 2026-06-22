@@ -20,13 +20,13 @@ To develop a PLC-based metro automation system that controls train movement thro
 - RES
 - Compare Logic
 
-## Ladder Logic 
+## Ladder Logic
 
-Ladder_Logic.jpg
-Ladder_Logic.2.png
+* [Ladder Logic - Page 1](./Ladder_Logic.jpg)
+* [Ladder Logic - Page 2](./Ladder_Logic.2.png)
 
-## Simulation of ladder logic 
+## Simulation of Ladder Logic
 
-Metro Automation System Part 1 - Ladder Logic Simulation
+* [Metro Automation System Part 1 - Ladder Logic Simulation](./Metro_Automation_System_Part_1.mp4)
 
   
